@@ -1,0 +1,8 @@
+C:\GitHub\Vagas\Vagas\Vagas\bin\Debug\netstandard2.0\Vagas.deps.json
+C:\GitHub\Vagas\Vagas\Vagas\bin\Debug\netstandard2.0\Vagas.dll
+C:\GitHub\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.csprojAssemblyReference.cache
+C:\GitHub\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.csproj.CoreCompileInputs.cache
+C:\GitHub\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.AssemblyInfoInputs.cache
+C:\GitHub\Vagas\Vagas\Vagas\obj\Debug\netstandard2.0\Vagas.AssemblyInfo.cs
