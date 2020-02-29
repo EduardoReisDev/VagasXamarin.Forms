@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Vagas.Banco
 {
-    interface ICaminho
+    public interface ICaminho
     {
         string ObterCaminho(string NomeArquivoBanco);
 
