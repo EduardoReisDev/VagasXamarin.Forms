@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Vagas.Modelos;
 
 namespace Vagas.Paginas
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class DetalheVagas : ContentPage
     {
-        public DetalheVagas()
+        public DetalheVagas(Vaga vaga)
         {
             InitializeComponent();
+
+            DisplayAlert("MSG", vaga.NomeVaga, "OK");
         }
     }
 }
